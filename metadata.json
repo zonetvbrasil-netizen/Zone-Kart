@@ -1,0 +1,6 @@
+{
+  "name": "Zone Play Kart 3D",
+  "description": "Jogo de corrida de kart arcade em 3D com a identidade visual Zone Play, 3 pistas neon, personagens Zone e Zonia, itens especiais e física com drift.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
